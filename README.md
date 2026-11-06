@@ -1,5 +1,7 @@
 # 🔍 Análisis Forense de Memoria: Anatomía del Hooking de Remotos y Defensa Server-Authoritative en Luau
-
+**Analista:** Sylvio Andrés Burgos (misteorecandy)  
+**Clasificación:** Remotespy (variante nueva) / vulnerabilidades que beneficia a un exploiter lo cual se reporta esto
+**Metodología de Auditoría:** [Análisis Estático Estructurado sobre Repositorio Fuente (GitHub)](https://raw.githubusercontent.com/exxtremestuffs/SimpleSpySource/master/SimpleSpy.lua)
 
 ---
 
